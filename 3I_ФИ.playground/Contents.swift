@@ -9,7 +9,7 @@ enum engineAct {
 
 enum trunkAct {
     case full
-    case empty
+    case emptн
 }
 
 enum windowAct {
