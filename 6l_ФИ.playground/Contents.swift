@@ -1,7 +1,7 @@
 import Cocoa
 
 struct Team {
-    var  position: String
+    var position: String
     var salary: Int
 }
 
